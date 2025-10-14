@@ -1,2 +1,3 @@
-node_modules/
-.env
+VITE_WEBHOOK_URL=https://sridhara16.app.n8n.cloud/webhook/9c1d03e7-4286-41f2-a0ab-351316c16327
+VITE_ASK_AI_WEBHOOK_URL=https://sridhara16.app.n8n.cloud/webhook/476f05a0-5ae9-451b-b7ba-d866c378d47f
+VITE_LEAD_MAGNET_WEBHOOK_URL=https://sridhara16.app.n8n.cloud/webhook/dfc11f52-d695-467f-b0e7-2098ad1ad0d1
